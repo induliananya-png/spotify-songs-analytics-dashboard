@@ -7,5 +7,5 @@ Data cleaning using Pandas, Genre analysis, Popularity analysis, Top artist anal
 ## Tools Used
 Python, Pandas, Jupyter Notebook, Power BI
 
-##Dashboard Visualizations
+## Dashboard Visualizations
 Pie Chart, Column Chart, Bar Chart, Scatter Plot, Interactive Slicer
